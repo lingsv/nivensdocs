@@ -1,0 +1,13 @@
+site_name: User Guide
+site_url: ""
+
+nav:
+  - Home: index.md
+  - Novo Cadastro: cadastro.md
+  - Relatório: report.md
+  - Editar Funcionário: editar.md
+  - Senha de Gestão: senha.md
+  - Administração do Sistema: admin.md
+
+theme:
+   name: material
