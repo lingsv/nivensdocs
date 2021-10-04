@@ -1,5 +1,5 @@
 site_name: User Guide
-site_url: ""
+site_url: https://lingsv.github.io/nivensdocs/
 
 nav:
   - Home: index.md
@@ -12,11 +12,18 @@ nav:
 theme:
    name: material
    palette:
-      primary: deep-purple
+      primary: cyan
       accent: indigo
    font:
      text: Poppins
    features: 
       - navigation.top
    language: pt
+extra:
+   social:
+   - icon: fontawesome/brands/github
+     link: https://github.com/lingsv/Nivens
+   - icon: fontawesome/brands/discord
+     link: ""
+       
 
