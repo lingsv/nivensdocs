@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Manual do usuário NIVENS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Atenção**: Este é o manual de usuário do gestor da equipe, as instruções presentes aqui referem -se apenas à aplicação web.
 
-## Commands
+Utilize o menu ao lado para poder navegar pelos assuntos desejados.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![](img/logo.png)
